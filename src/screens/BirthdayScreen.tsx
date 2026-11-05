@@ -91,7 +91,7 @@ export default function BirthdayScreen({ onReplay }: { onReplay: () => void }) {
           transition={{ duration: 1.4, ease: 'easeOut' }}
           className="font-serif text-4xl text-gradient-rose sm:text-6xl"
         >
-          HAPPY BIRTHDAY, {STORY.babyName.toUpperCase()}!
+          30 days to go… made with love, just for you. ❤
         </motion.h1>
 
         <p className="mx-auto max-w-xl font-serif text-lg italic text-blush sm:text-xl">

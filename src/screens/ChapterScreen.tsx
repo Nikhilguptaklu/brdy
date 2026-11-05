@@ -68,7 +68,6 @@ export default function ChapterScreen({
         text={chapter.title}
         className="font-serif text-3xl leading-tight text-gradient-rose sm:text-4xl"
       />
-      <p className="font-hand text-xl text-rose-gold">{chapter.date}</p>
       <p className="font-serif text-lg italic text-blush">{chapter.caption}</p>
       <div className="glass-soft rounded-2xl px-5 py-4">
         <p className="font-hand text-xl leading-relaxed text-champagne/90">{chapter.note}</p>
